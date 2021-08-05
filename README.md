@@ -1,6 +1,6 @@
 # Metaflow bot custom action (Tell me a joke)
 
-This repository is an example of a custom action for the Metaflowbot. 
+This repository is an example of a custom action for the [Metaflow bot](https://github.com/outerbounds/metaflowbot). 
 
 ## Installing this action 
 
